@@ -16,7 +16,7 @@ Welcome to Spavius, your friendly AI - powered study companion! Spavius helps yo
 2. **Theme Selection**  
    The app defaults to your system preference (dark/light mode), but you can toggle this anytime using the switch in the header.
 
-## API Key Setup (Optional)
+## API Key Setup (NOT Optional because of my laziness)
 For faster processing, you can add your own Google Gemini API key:
 1. Click "Upload API key" in the header
 2. Get a free key from [Google AI Studio](https://aistudio.google.com/apikey)
